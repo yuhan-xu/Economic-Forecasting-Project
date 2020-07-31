@@ -1,2 +1,2 @@
 # Economic-Forecasting-Project
-Time Series Project
+Time Series Project using STATA
